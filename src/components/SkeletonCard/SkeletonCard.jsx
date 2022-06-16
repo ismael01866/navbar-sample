@@ -1,7 +1,7 @@
 import { Box, Flex, HStack, VStack } from '@chakra-ui/react';
 import React from 'react';
 
-function Skeleton() {
+export function SkeletonCard() {
   return (
     <VStack spacing={4}>
       <Box bg="gray.100" borderRadius="base" height="200px" width="100%"></Box>
@@ -26,5 +26,3 @@ function Skeleton() {
     </VStack>
   );
 }
-
-export default Skeleton;

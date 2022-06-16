@@ -1,7 +1,7 @@
 import { ChakraProvider, VStack } from '@chakra-ui/react';
 import React from 'react';
-import LayoutNavBar from './components/layout/navigation/NavBar';
-import HomeContent from './views/Home/HomeContent/HomeContent';
+import { NavBar } from './views/Layout';
+import { HomeContent } from './views/Home';
 
 import theme from './theme';
 
@@ -9,7 +9,7 @@ function App() {
   return (
     <ChakraProvider theme={theme}>
       <VStack>
-        <LayoutNavBar />
+        <NavBar />
         <HomeContent />
       </VStack>
     </ChakraProvider>
