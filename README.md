@@ -1,4 +1,4 @@
-### `Demo at`
+### `demo`
 
 https://ismael01866.github.io/navbar-sample/
 
