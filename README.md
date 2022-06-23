@@ -1,6 +1,7 @@
 ### `demo`
 
 https://ismael01866.github.io/navbar-sample/
+![screenshot](https://user-images.githubusercontent.com/145450/175194220-33f597d2-1011-403c-aa58-1e5eb4e7a742.png)
 
 In the project directory, you can run:
 
